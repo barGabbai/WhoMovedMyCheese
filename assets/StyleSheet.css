@@ -1,0 +1,126 @@
+﻿body {
+    /*background-color: #C1EDFF;*/
+    /*background-color: white;*/
+    font-family: 'Assistant', sans-serif  !important;
+            direction:rtl;
+            margin: 0 auto;
+            width:960px;
+}
+
+
+
+ tr{
+            background-color:#e6e6e6 !important;
+            text-align:right;
+            
+          }
+
+        
+
+        h1{
+            font-size: 18pt;
+            font-family: 'Assistant', sans-serif;
+          }
+
+        h2{
+            font-size: 12pt;
+            margin-bottom:0px;
+        }
+
+ 
+
+        #limitations{
+            font-size:10pt;
+            color:red;
+        }
+
+        th {
+            background-color: #FCCB84;
+           }
+        table{
+            border:1px solid black;
+            position:relative;
+            width:960px;
+        }
+
+    
+
+        input[type='checkbox']{
+            border:1px solid black;
+            width:30px;
+            height:30px;
+
+        }
+
+
+        #Panel2{
+            background-color:grey;
+            width:100px;
+            position:absolute;
+        }
+        
+        #Label2{
+            font-weight:bold;
+            margin-top:10px;
+            font-size:12pt;
+        }
+        
+        .modalBg
+{
+      background-color: grey;
+      filter: alpha(opacity=60);
+      opacity: 0.6;
+
+}
+
+        #pnlModal{
+             width:100%;
+            position:relative;
+            background-color:#FCCB84;
+            width:250px;
+            border-radius:14px;
+            border:1px solid #de9428;
+            font-size:12pt;
+            height:110px;
+            text-align:center;
+            padding:20px;
+            box-shadow: 5PX 5px #888888;
+        }
+
+        #btnClose, #btnOk{
+            border-radius:14px;
+            border:none;
+            font-size:12pt;
+            font-weight:bold;
+            height:25px;
+            background-color:#eaeaea;
+        }
+
+        #btnClose{
+            margin-right:60px;
+            margin-top:20px;
+        }
+
+        #gameNameLbl{
+            font-weight:bold;
+            font-size:14pt;
+        }
+
+        #qMark{
+            font-weight:normal;
+        }
+
+        #gridDiv{
+            border: 1px solid black;
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  border-radius: 14px;
+  overflow: hidden;
+        }
+
+        .iconsGrid{
+font-size:11pt;
+        }
+
+   
+

@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--דוגמא לשאלה עם תמונה ו-4 מסיחים-->
+<catalog>
+  <game id="19" code="118" published="false" missionCounter="4" time="21">
+    <title>אלדד כבאזה</title>
+    <qCounter>4</qCounter>
+    <mission id="1">
+      <question pic="no" picUrl="" picUrlSmall="">סתום</question>
+      <distractors>
+        <distractor answer="true">תפה</distractor>
+        <distractor answer="false">יא</distractor>
+        <distractor answer="false">זין</distractor>
+      </distractors>
+    </mission>
+    <mission id="2">
+      <question pic="no" picUrl="" picUrlSmall="">ישך</question>
+      <distractors>
+        <distractor answer="true">פרצוף של הומו</distractor>
+        <distractor answer="false">יא זין</distractor>
+      </distractors>
+    </mission>
+    <mission id="3">
+      <question pic="yes" picUrl="photos/pic08_07_18-16_37_18.png" picUrlSmall="photos/small_pic08_07_18-16_37_18.png">איזה קוף</question>
+      <distractors>
+        <distractor answer="true">אני</distractor>
+        <distractor answer="false">מתה</distractor>
+      </distractors>
+    </mission>
+    <mission id="4">
+      <question pic="yes" picUrl="photos/pic08_07_18-16_38_08.jpg" picUrlSmall="photos/small_pic08_07_18-16_38_08.jpg">איזה קוף</question>
+      <distractors>
+        <distractor answer="true">אמאלה</distractor>
+        <distractor answer="false">מה זה</distractor>
+      </distractors>
+    </mission>
+  </game>
+  <game id="7" code="106" published="true" missionCounter="30" time="31">
+    <title>אישים ואירועים מדיניים</title>
+    <qCounter>13</qCounter>
+    <mission id="1">
+      <question pic="yes" picUrl="photos/pic08_07_18-08_53_41.jpg" picUrlSmall="photos/small_pic08_07_18-08_53_41.jpg">מיהי הדמות שבתמונה?</question>
+      <distractors>
+        <distractor answer="true">גולדה מאיר</distractor>
+        <distractor answer="false">לאה גולדברג</distractor>
+        <distractor answer="false">נעמי שמר</distractor>
+        <distractor answer="false">ציפי לבני</distractor>
+      </distractors>
+    </mission>
+    <mission id="2">
+      <question pic="yes" picUrl="photos/pic08_07_18-08_55_44.jpg" picUrlSmall="photos/small_pic08_07_18-08_55_44.jpg">התמונה הבאה צולמה בהכרזת העצמאות</question>
+      <distractors>
+        <distractor answer="true">נכון</distractor>
+        <distractor answer="false">לא נכון</distractor>
+      </distractors>
+    </mission>
+    <mission id="3">
+      <question pic="yes" picUrl="photos/pic08_07_18-08_56_39.jpg" picUrlSmall="photos/small_pic08_07_18-08_56_39.jpg">מהו תפקידו של האדם בתמונה?</question>
+      <distractors>
+        <distractor answer="true">נשיא המדינה</distractor>
+        <distractor answer="false">ראש הממשלה</distractor>
+        <distractor answer="false">ראש העיר של נס ציונה</distractor>
+        <distractor answer="false">ראש מפלגת הליכוד</distractor>
+      </distractors>
+    </mission>
+    <mission id="4">
+      <question pic="no" picUrl="" picUrlSmall="">מבין הבאים, מי ראש הממשלה בעל תקופת הכהונה הארוכה ביותר?</question>
+      <distractors>
+        <distractor answer="true">ביבי נתניהו</distractor>
+        <distractor answer="false">משה שרת</distractor>
+        <distractor answer="false">יצחק רבין</distractor>
+        <distractor answer="false">שמעון פרס</distractor>
+      </distractors>
+    </mission>
+    <mission id="6">
+      <question pic="no" picUrl="" picUrlSmall="">מלחמת ששת הימים התרחשה בשנת...</question>
+      <distractors>
+        <distractor answer="true">1967</distractor>
+        <distractor answer="false">1954</distractor>
+        <distractor answer="false">1948</distractor>
+        <distractor answer="false">1955</distractor>
+      </distractors>
+    </mission>
+    <mission id="7">
+      <question pic="yes" picUrl="photos/pic08_07_18-09_03_04.jpg" picUrlSmall="photos/small_pic08_07_18-09_03_04.jpg">מיהו האדם שבתמונה?</question>
+      <distractors>
+        <distractor answer="true">אילן רמון- האסטרונאוט הישראלי הראשון בחלל</distractor>
+        <distractor answer="false">אבי רמון- האסטרונאוט הראשון בחלל</distractor>
+        <distractor answer="false">אילן רמון- האסטרונאוט הראשון בחלל</distractor>
+        <distractor answer="false">אבי רמון- האסטרונאוט הישראלי הראשון בחלל</distractor>
+      </distractors>
+    </mission>
+    <mission id="8">
+      <question pic="no" picUrl="" picUrlSmall="">אליעזר בן יהודה היה...</question>
+      <distractors>
+        <distractor answer="true">מחיה השפה העברית</distractor>
+        <distractor answer="false">הרמטכ"ל הראשון </distractor>
+        <distractor answer="false">ממייסדי נס ציונה</distractor>
+      </distractors>
+    </mission>
+    <mission id="9">
+      <question pic="no" picUrl="" picUrlSmall="">מי היה הנשיא הראשון של מדינת ישראל?</question>
+      <distractors>
+        <distractor answer="true">חיים ויצמן</distractor>
+        <distractor answer="false">עזר ויצמן</distractor>
+        <distractor answer="false">חן ויצמן</distractor>
+        <distractor answer="false">שמעון ויצמן</distractor>
+      </distractors>
+    </mission>
+    <mission id="10">
+      <question pic="no" picUrl="" picUrlSmall="">נפתלי הרץ אימבר חיבר את המנון "התקווה"</question>
+      <distractors>
+        <distractor answer="true">נכון</distractor>
+        <distractor answer="false">לא נכון</distractor>
+      </distractors>
+    </mission>
+    <mission id="11">
+      <question pic="no" picUrl="" picUrlSmall="">בשנת 1990, יצחקן רבין כיהן כראש ממשלה</question>
+      <distractors>
+        <distractor answer="true">לא נכון</distractor>
+        <distractor answer="false">נכון</distractor>
+      </distractors>
+    </mission>
+    <mission id="12">
+      <question pic="yes" picUrl="photos/pic08_07_18-09_09_37.png" picUrlSmall="photos/small_pic08_07_18-09_09_37.png">האדם שבתמונה הוא...</question>
+      <distractors>
+        <distractor answer="true">יצחק רבין</distractor>
+        <distractor answer="false">שמעון פרס</distractor>
+        <distractor answer="false">משה דיין</distractor>
+        <distractor answer="false">משה שרת</distractor>
+      </distractors>
+    </mission>
+    <mission id="13">
+      <question pic="no" picUrl="" picUrlSmall="">'מבצע דני' התרחש במלחמת המפרץ</question>
+      <distractors>
+        <distractor answer="true">לא נכון</distractor>
+        <distractor answer="false">נכון</distractor>
+      </distractors>
+    </mission>
+    <mission id="15">
+      <question pic="no" picUrl="" picUrlSmall="">מיהו חוזה המדינה?</question>
+      <distractors>
+        <distractor answer="true">בנימין זאב הרצל</distractor>
+        <distractor answer="false">יצחק רבין</distractor>
+        <distractor answer="false">אליעזר בן יהודה</distractor>
+        <distractor answer="false">דוד בן גוריון</distractor>
+      </distractors>
+    </mission>
+  </game>
+  <game id="6" code="105" published="true" missionCounter="8" time="21">
+    <title>אתרים בעולם</title>
+    <qCounter>8</qCounter>
+    <mission id="1">
+      <question pic="yes" picUrl="photos/pic08_07_18-08_46_13.jpg" picUrlSmall="photos/small_pic08_07_18-08_46_13.jpg">היכן נמצאו האתר שבתמונה?</question>
+      <distractors>
+        <distractor answer="true">איטליה</distractor>
+        <distractor answer="false">דנמרק</distractor>
+        <distractor answer="false">ברית המועצות</distractor>
+        <distractor answer="false">ארצות הברית</distractor>
+      </distractors>
+    </mission>
+    <mission id="2">
+      <question pic="yes" picUrl="photos/pic08_07_18-08_47_27.jpg" picUrlSmall="photos/small_pic08_07_18-08_47_27.jpg">האתר בתמונה נקרא...</question>
+      <distractors>
+        <distractor answer="true">ביג בן</distractor>
+        <distractor answer="false">כיכר מלכי ישראל</distractor>
+        <distractor answer="false">הגנים הבהאיים</distractor>
+        <distractor answer="false">מגדל השעון</distractor>
+      </distractors>
+    </mission>
+    <mission id="3">
+      <question pic="yes" picUrl="photos/pic08_07_18-08_47_57.jpg" picUrlSmall="photos/small_pic08_07_18-08_47_57.jpg">האתר בתמונה נמצא בירושלים</question>
+      <distractors>
+        <distractor answer="true">נכון</distractor>
+        <distractor answer="false">לא נכון</distractor>
+      </distractors>
+    </mission>
+    <mission id="4">
+      <question pic="yes" picUrl="photos/pic08_07_18-08_49_12.jpg" picUrlSmall="photos/small_pic08_07_18-08_49_12.jpg">באיזו עיר נמצא האתר הבא?</question>
+      <distractors>
+        <distractor answer="true">אגרה</distractor>
+        <distractor answer="false">דלהי</distractor>
+        <distractor answer="false">מומבאי</distractor>
+        <distractor answer="false">בנגלור</distractor>
+      </distractors>
+    </mission>
+    <mission id="5">
+      <question pic="yes" picUrl="photos/pic08_07_18-08_49_39.jpg" picUrlSmall="photos/small_pic08_07_18-08_49_39.jpg">התמונה הבאה צולמה באקאריביים</question>
+      <distractors>
+        <distractor answer="true">לא נכון</distractor>
+        <distractor answer="false">נכון</distractor>
+      </distractors>
+    </mission>
+    <mission id="6">
+      <question pic="yes" picUrl="photos/pic08_07_18-08_50_07.jpg" picUrlSmall="photos/small_pic08_07_18-08_50_07.jpg">באיזו עיר נמצא האתר הבא?</question>
+      <distractors>
+        <distractor answer="true">חיפה</distractor>
+        <distractor answer="false">ראשון לציון</distractor>
+        <distractor answer="false">דימונה</distractor>
+      </distractors>
+    </mission>
+    <mission id="7">
+      <question pic="no" picUrl="" picUrlSmall="">בירת הנגב היא...</question>
+      <distractors>
+        <distractor answer="true">באר שבע</distractor>
+        <distractor answer="false">דימונה</distractor>
+        <distractor answer="false">אילת</distractor>
+      </distractors>
+    </mission>
+    <mission id="8">
+      <question pic="no" picUrl="" picUrlSmall="">מהו ההר הגבוה בעולם?</question>
+      <distractors>
+        <distractor answer="true">אוורסט</distractor>
+        <distractor answer="false">קילימנג'רו</distractor>
+        <distractor answer="false">טיבי דאבו</distractor>
+      </distractors>
+    </mission>
+  </game>
+  <gCounter>19</gCounter>
+</catalog>

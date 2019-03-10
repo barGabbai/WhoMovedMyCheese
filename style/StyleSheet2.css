@@ -1,0 +1,402 @@
+﻿        body {
+            font-family: 'Assistant', sans-serif  !important;
+            direction: rtl;
+            margin: 0 auto;
+            width: 960px;
+        }
+
+        h1 {
+            font-size: 18pt;
+            font-family: 'Assistant', sans-serif;
+        }
+
+        #rightDistLbl{
+            font-size:9pt;
+            font-weight:bold;
+        }
+
+        #saveContinue, #saveBack{
+            border-radius: 14px;
+            border: none;
+            font-size: 11pt;
+            font-weight: bold;
+            height: 25px;
+            margin-left: 15px;
+        }
+
+        #back{
+            border-radius: 14px;
+            border: none;
+            font-size: 11pt;
+            font-weight: bold;
+            height: 25px;
+        }
+
+
+
+        #txt{
+            margin-left: 400px;
+        }
+
+        #maxQ{
+            font-size:14pt;
+             }
+
+        #publishBtn, #backMaxBtn{
+            background-color:#e6e6e6;
+            border-radius:14px;
+            font-size:11pt;
+        }
+
+        #limitations {
+            font-size: 9pt;
+            font-weight:normal;
+            color: red;
+            margin-top: 2px;
+        }
+
+        #panel5{
+            margin-top:35px;
+        }
+
+        #radiosTbl {
+            border: 1px solid black;
+            background-color: #e6e6e6 !important;
+            margin-top: 15px;
+            text-align: right;
+            margin-right:30px;
+            width: 348px;
+            height:400px;
+            
+        }
+
+     #questionDiv2{
+         margin-right:100px;
+     }
+
+
+        #uploadBtn{
+            border-radius:14px;
+            background-color:#FCCB84;
+            height:80px;
+            width:80px;
+            color:black;
+            font-size:43pt;
+            border:none; 
+            display:inline-block
+        }
+
+        #qTxt{
+           
+            margin-top:25px;
+            font-family:Arial !important;
+
+        }
+
+      td:hover {
+            background-color: #c8c6c6;
+
+            }
+
+        td{
+            padding-top:7px;
+            padding-bottom:5px;
+        }
+
+        #Panel1 {
+            margin-left: 50px;
+        }
+
+        #questionTbl {
+            background-color: #FCCB84;
+            border: 1px solid black;
+            width: 338px;
+            margin-bottom: -16px;
+            padding: 5px;
+            text-align: right;
+            margin-right:30px;
+        }
+
+        #QLbl, #picSpan {
+            font-weight: bold;
+        }
+
+        #typeQLbl {
+            font-weight: bold;
+        }
+
+        #limitations2 {
+            font-size: 9pt;
+            color: black;
+            text-align: right;
+            font-weight: normal;
+        }
+
+        #counterOfQLbl {
+            margin-right: 250px;
+            font-size: 10pt;
+            color: black;
+            text-align: right;
+            width: 120px;
+        }
+
+        div#wrap {
+            float: right;
+            margin-right: 0px;
+            margin-top: 10px;
+}
+
+        #limitations3, #limitations4 {
+            font-size: 9pt;
+            color: red;
+            font-weight: normal;
+        }
+
+        #approveImage{
+            visibility:hidden;
+        }
+
+        #timePerQLbl, #nameQ {
+            font-size: 11pt;
+        }
+
+        div#wrap2{
+            float:left;
+            width:50%;
+            margin-right:0px;
+        }
+
+        input[name=questionsRdio]{
+            display:none;        
+        }
+
+        #typeD {
+            font-weight: bold;
+        }
+        
+        #distractorsTxt0{
+            width: 282px;
+            height: 23px;
+            margin-bottom:10px;
+            border:2px solid black;
+        }
+
+         #distractorsTxt1, #distractorsTxt2, #distractorsTxt3 {   
+            width: 282px;
+            height: 23px;
+            margin-top:21px;
+            margin-bottom:10px;
+        }
+
+        #bottomBtns{
+            margin-top:20px;
+        }
+
+        #picSpan {
+            margin-right: 158px;
+        }
+
+        #questionDiv {
+            margin-bottom: -16px;
+            margin-top:30px;
+        }
+
+        #picUpload {
+            margin-right: 10px;
+        }
+
+        div#radios{
+            float:right;
+            display:inline;
+        }
+
+        #timePerQLbl{
+            margin-right:131px;
+        }
+
+        #DropDownList1{
+            margin-left:20px;
+        }
+
+        #qName{
+            display:block; float:right; width:50%;
+        }
+
+        .fileupload{
+            margin-top:-30px;
+           border-radius:14px;
+           border:none;
+           font-size:11pt;
+           font-weight:bold;
+           height:25px;
+        }
+
+        #qCounterLimitations{
+            border-bottom:2px solid black;
+        }
+
+        #q{
+            font-size:12pt;
+            font-weight:bold;
+            margin:5px;
+        }
+
+        #limitationsQ, #qNum, #qCounter{
+            font-size:9pt;
+        }
+
+        #limitationsQ{
+            margin-right:5px;
+        }
+        #qNum{
+            margin-right:230px;
+        }
+
+        div#gridWrap{
+            border-bottom-right-radius:14px;
+            border-bottom-left-radius:14px;
+            height:370px;
+            background-color:#e6e6e6;
+            overflow-y:auto;
+            overflow-x:hidden;
+            margin-top:-1px;
+            width:320px;
+        }
+
+         div#gridWrap::-webkit-scrollbar-track
+        {
+             
+	        border-bottom-left-radius:18px;
+            border-bottom-color:black;
+	        background-color: #e6e6e5;
+        }
+
+        div#gridWrap::-webkit-scrollbar
+        {
+	        width: 12px;
+	        background-color: transparent;
+        }
+
+        div#gridWrap::-webkit-scrollbar-thumb
+        {
+            border-radius: 7px;
+	        background-color: #000000;
+        }
+
+        #qTbl{
+            border: 1px solid black;
+            -webkit-border-radius: 14px;
+            -moz-border-radius: 14px;
+            border-radius: 14px;
+            background-color:#FCCB84;
+        }
+
+        #thumb{
+            border-radius:14px;
+            position:relative;
+           
+        }
+
+        #picUploadedDiv{
+            position:absolute;
+        }
+
+        #x{
+
+        }
+
+        .modalBg
+        {
+            background-color: grey;
+            filter: alpha(opacity=60);
+            opacity: 0.6;
+        }
+
+         #newQ
+        {
+            border-radius:14px;
+            border:none;
+            font-size:11pt;
+            font-weight:bold;
+            height:25px;
+                    
+        }
+
+         #Panel3{
+             margin-top:20px;
+         }
+                #panel4btns{
+                    margin-top:100px;
+                    text-align:center;
+                }
+
+                #limitLbl{
+                    font-size:20pt;
+                    font-weight:bold;
+                }
+
+                #limitLblDiv{
+                    margin-top:150px;
+                    text-align:center;
+                }
+
+                #limitBackBtn, #limitPublishBtn{
+                    padding:5px;
+                    border-radius:14px;
+                    border:none;
+                    font-size:11pt;
+                    font-weight:bold;
+                }
+
+                #limitBackBtn{
+                    margin-right:20px;
+                }
+
+                #TextBox1{
+                    margin-right:10px;
+                    width:190px;
+                }
+
+        #pnlModal{
+             max-width:100%;
+            position:relative;
+            background-color:#FCCB84;
+            width:auto !important;
+            border-radius:14px;
+            border:1px solid #de9428;
+            font-size:12pt;
+            height:110px;
+            text-align:center;
+            padding:20px;
+            box-shadow: 5PX 5px #888888;
+        }
+
+              #btnClose, #btnOk{
+            border-radius:14px;
+            border:none;
+            font-size:12pt;
+            font-weight:bold;
+            height:25px;
+            background-color:#eaeaea;
+        }
+
+        #btnClose{
+            margin-right:60px;
+            margin-top:20px;
+        }
+
+        #questionNameLbl{
+            font-weight:bold;
+            font-size:14pt;
+            width:auto;
+        }
+
+        #qMark{
+            font-weight:normal;
+        }
+
+        #questionLbl{
+            background:none;
+            border:none;
+
+        }
